@@ -1,0 +1,76 @@
+h1 {
+    color: rgb(92, 91, 91);
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: rgb(72, 69, 69);
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.links {
+    color: rgb(92, 91, 91);
+    text-align: center;
+}
+
+#position {
+    color: rgb(92, 91, 91);
+    text-align: center;
+}
+
+.sub-headings {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 29%;
+}
+
+.education {
+    color: rgb(92, 91, 91);
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 29%;
+}
+
+.b2 {
+    font-size: 13px;
+}
+
+.b3 {
+    color: green;
+    font-size: 16px;
+
+}
+
+.skill {
+    color: rgb(92, 91, 91);
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 29%;
+}
+
+.b1 {
+    font-size: large;
+}
+
+.certifications {
+    color: rgb(92, 91, 91);
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslateblue;
+    padding-left: 29%;
+}
+
+.b4 {
+    font-size: large;
+}
+
+.activities {
+    color: rgb(92, 91, 91);
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 29%;
+}
